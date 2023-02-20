@@ -1,0 +1,13 @@
+1)91 
+
+3) Menor valor de faturamento:  0.0  Dia do mês:  4 
+Maior valor de faturamento:  48924.2448  Dia do mês:  16
+Média mensal:  20865.370166666664
+Número de dias no mês em que o valor de faturamento diário foi superior à média mensal:  10
+
+4) SP - 38%
+RJ - 20%
+MG - 16%
+ES - 15%
+Outros - 11%
+
